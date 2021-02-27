@@ -21,7 +21,7 @@ This repository will contain some old scripts I made for the FiveM server client
 These scripts are based on the [ESX Framework](https://github.com/esx-framework) for FiveM servers.
 
 ## esx_joblisting2
-To do: add description
+esx_joblisting2 was created as an extension of the already available esx_joblisting. This scripts enables players to apply to whitelisted jobs through the in-game client by sending the application to a Discord channel.
 
 ## esx_gunshot
 To do: add description
