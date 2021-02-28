@@ -24,4 +24,4 @@ These scripts are based on the [ESX Framework](https://github.com/esx-framework)
 esx_joblisting2 was created as an extension of the already available esx_joblisting. This scripts enables players to apply to whitelisted jobs through the in-game client by sending the application to a Discord channel.
 
 ## esx_gunshot
-To do: add description
+esx_gunshot enables players to check if another player recently has fired a gun (gun residue test).
